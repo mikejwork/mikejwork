@@ -1,5 +1,3 @@
-### Hi there 👋
-
 🤔 **Interests**  
 C++ Programming  
 Java Programming  
