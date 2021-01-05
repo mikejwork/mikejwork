@@ -4,7 +4,7 @@ Java Programming
 x86 Reversal & Assembly  
 Anti-Cheat systems & game reversal  
 
-✏️ currently working on a webite / usermode framework for e-commerce
+✏️ currently working on a desktop application using curl for web requests
 
 ![MikeJ's github stats](https://github-readme-stats.vercel.app/api?username=mikejaus&show_icons=true)
 
