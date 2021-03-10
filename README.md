@@ -4,7 +4,7 @@ Java Programming
 x86 Reversal & Assembly  
 Anti-Cheat systems & game reversal  
 
-✏️ currently working on a desktop application using curl for web requests
+✏️ currently studying, personal projects on hold until semester end 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikejaus&layout=compact)
 
