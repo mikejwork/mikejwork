@@ -11,4 +11,4 @@ Anti-Cheat systems & game reversal
 ![MikeJ's github stats](https://github-readme-stats.vercel.app/api?username=mikejaus&show_icons=true)
 
 💬 **Contact**  
- MikeJ#5257  
+mikejurie.work@gmail.com
