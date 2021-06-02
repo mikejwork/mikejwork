@@ -5,14 +5,15 @@ x86 Reversal & Assembly
 Anti-Cheat systems & game reversal  
 
 **Skills**  
--> **Languages + Confidence**  
-C++ [======----]  
-Java [===-------]  
-Lua [======----]  
-Python [=======---]  
-HTML / CSS [======----]  
-JavaScript [===-------]  
-
+-> **Languages + Confidence**
+<pre>
+C++         [======----]  
+Java        [===-------]  
+Lua         [======----]  
+Python      [=======---]  
+HTML / CSS  [======----]  
+JavaScript  [===-------]  
+</pre>
 -> **Environments**  
 Amazon AWS  
 Google App Engine (prefer AWS)  
