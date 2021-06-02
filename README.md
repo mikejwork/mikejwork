@@ -20,7 +20,7 @@ Amazon AWS        [=======---]
 Google App Engine [====------] 
 </pre>
 
-✏️ currently studying, personal projects on hold until semester end  
+✏️ Currently studying, personal projects on hold until semester end.  
 
 💬 **Contact**  
 mikejurie.work@gmail.com  
