@@ -6,12 +6,12 @@ Anti-Cheat systems & game reversal
 
 **Skills**  
 -> **Languages + Confidence**  
-C++         []
-Java
-Lua
-Python
-HTML / CSS
-JavaScript
+C++ [======----]  
+Java [===-------]  
+Lua [======----]  
+Python [=======---]  
+HTML / CSS [======----]  
+JavaScript [===-------]  
 
 -> **Environments**  
 Amazon AWS  
