@@ -4,7 +4,6 @@ Java Programming
 x86 Reversal & Assembly  
 Anti-Cheat systems & game reversal  
 
-**Skills**  
 **Languages**
 <pre>
 C++               [======----]  
