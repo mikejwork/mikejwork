@@ -1,6 +1,6 @@
 **Interests**  
 C++ Programming  
-Python Programming
+Python Programming  
 Anti-Cheats & Reverse Engineering    
 
 **Languages**
