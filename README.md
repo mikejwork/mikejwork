@@ -1,8 +1,7 @@
-🤔 **Interests**  
+**Interests**  
 C++ Programming  
-Java Programming  
-x86 Reversal & Assembly  
-Anti-Cheat systems & game reversal  
+Python Programming
+Anti-Cheats & Reverse Engineering    
 
 **Languages**
 <pre>
@@ -16,8 +15,8 @@ JavaScript        [===-------]
 
 **Environments** 
 <pre>
-Amazon AWS        [=======---]
-Google App Engine [====------] 
+Amazon AWS        [======----]
+Google App Engine [===-------] 
 </pre>
 
 ✏️ Currently studying, personal projects on hold until semester end.  
