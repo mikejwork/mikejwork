@@ -13,7 +13,7 @@ HTML / CSS        [======----]
 JavaScript        [===-------]  
 </pre>
 
-**Environments** 
+**Cloud Platforms** 
 <pre>
 Amazon AWS        [======----]
 Google App Engine [===-------] 
