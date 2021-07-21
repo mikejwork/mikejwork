@@ -9,8 +9,8 @@ C++               [======----]
 Java              [===-------]  
 Lua               [======----]  
 Python            [=======---]  
-HTML / CSS        [======----]  
-JavaScript        [===-------]  
+HTML / CSS        [=====-----]  
+JavaScript        [=====-----]  
 </pre>
 
 **Cloud Platforms** 
