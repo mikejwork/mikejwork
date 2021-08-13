@@ -1,5 +1,6 @@
 **Interests**  
-C++ Programming  
+Cloud Computing  
+Blockchain Systems  
 Python Programming  
 Anti-Cheats & Reverse Engineering    
 
