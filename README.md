@@ -14,7 +14,7 @@ HTML / CSS        [=====-----]
 JavaScript        [=====-----]  
 </pre>
 
-**Frameworks**
+**Libraries**
 <pre>
 React.js          [=======---]
 </pre>
