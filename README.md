@@ -1,12 +1,12 @@
 **Interests**  
 Cloud Computing  
 Blockchain Systems  
-Python Programming  
-Anti-Cheats & Reverse Engineering    
+C++, JavaScript, Python Programming  
+Anti-Cheat Security & Reverse Engineering    
 
 **Languages**
 <pre>
-C++               [======----]  
+C++               [=====-----]  
 Java              [===-------]  
 Lua               [======----]  
 Python            [=======---]  
