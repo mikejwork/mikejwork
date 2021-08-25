@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white"/>
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
