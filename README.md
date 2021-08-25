@@ -2,8 +2,8 @@
 ✏️ Currently studying, personal projects on hold until semester end.  
 🔎 Looking for work  
 
-**Languages / Frameworks / Libraries:**
 <p align="center">
+  **Languages / Frameworks / Libraries:**
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
@@ -25,9 +25,9 @@
 </p>
 <br>
 
-**Cloud Environments:**
-<div>
+<p align="center">
+  **Cloud Environments:**
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase">
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
-</div>
+</p>
