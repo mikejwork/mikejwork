@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black"/>
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white"/>
 </p>
 <br>
