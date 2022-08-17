@@ -1,2 +1,2 @@
-💬 **Contact**  mikejurie.work@gmail.com     
+Working on private projects.  
 🔎 Employed @ Blackbook.ai  
