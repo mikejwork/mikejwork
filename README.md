@@ -1,2 +1,3 @@
-Working on private projects.  
-🔎 Employed @ Blackbook.ai  
+Full time software developer @ Blackbook.ai 
+🔎 React.js / React Native 
+🔎 C++ / Reverse Engineering 
