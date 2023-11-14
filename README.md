@@ -1,3 +1,4 @@
 Full time software developer @ Blackbook.ai  
-🔎 React.js / React Native  
+🔎 React.js  
+🔎 React Native  
 🔎 C++ / Reverse Engineering  
